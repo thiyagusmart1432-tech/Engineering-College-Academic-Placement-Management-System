@@ -1,0 +1,7 @@
+{
+  "name": "tec-portal",
+  "version": "1.0.0",
+  "description": "Thangavelu Engineering College academic and placement portal",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" }
+}
